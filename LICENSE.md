@@ -1,6 +1,6 @@
 DevOps'ish License
 
-Copyright (c) 2018 YOU
+Copyright (c) 2018 ¯\_(ツ)_/¯
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -12,10 +12,11 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-No complaining about any software utilizing this license is allowed. Use of 
-this software with complaints is a violation of the license thus resulting in
-forfeiture of all above rights. Please direct all comments and questions 
-about this provision to devnull@devopsish.com.
+No complaining about any software utilizing this license is allowed. Please 
+suggest reasonable and viable solutions when lobbying complaints. Use of this 
+software with solutionless complaints is a violation of the license thus 
+resulting in forfeiture of all above rights. Please direct all comments and 
+questions about this provision to devnull@devopsish.com.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
